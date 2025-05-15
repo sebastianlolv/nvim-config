@@ -1,1 +1,1 @@
-Personal Neovim config that @sebastianlolv uses.
+Personal Neovim config that @sebastianlolv uses. Work in progress.
