@@ -16,6 +16,10 @@ return {
 		},
 	},
 
+	{
+		"tpope/vim-sleuth",
+	},
+
 	-- change trouble config
 	{
 		"folke/trouble.nvim",
