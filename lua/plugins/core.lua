@@ -141,6 +141,7 @@ return {
 				"regex",
 				"tsx",
 				"typescript",
+				"terraform",
 				"vim",
 				"yaml",
 			},
